@@ -32,3 +32,5 @@ Kairėje pusėje paspauskite ant naujai sukurtos cms bazės.
 Viršutiniame meniu pasirinkite Import.
 
 Įkelkite projekto aplanke esantį failą cms.sql, tada spauskite Go.
+
+4. Atidaryti svetainę per http://localhost/cms/
