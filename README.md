@@ -17,20 +17,20 @@ Projektui paleisti reikalingas lokalus serveris. Rekomenduojama naudoti:
 
 2. Paleiskite XAMPP serverį
 
-Atidarykite XAMPP Control Panel.
+  Atidarykite XAMPP Control Panel.
 
-Paspauskite Start prie Apache ir MySQL modulių. Įsitikinkite, kad abu šviečia žaliai.
+  Paspauskite Start prie Apache ir MySQL modulių. Įsitikinkite, kad abu šviečia žaliai.
 
 3. Sukurkite duomenų bazę
 
-Naršyklėje atidarykite duomenų bazių valdymą: http://localhost/phpmyadmin
+  Naršyklėje atidarykite duomenų bazių valdymą: http://localhost/phpmyadmin
 
-Sukurkite naują duomenų bazę pavadinimu cms (Pasirinkite Collation: utf8mb4_general_ci).
+  Sukurkite naują duomenų bazę pavadinimu cms (Pasirinkite Collation: utf8mb4_general_ci).
 
-Kairėje pusėje paspauskite ant naujai sukurtos cms bazės.
+  Kairėje pusėje paspauskite ant naujai sukurtos cms bazės.
 
-Viršutiniame meniu pasirinkite Import.
+  Viršutiniame meniu pasirinkite Import.
 
-Įkelkite projekto aplanke esantį failą cms.sql, tada spauskite Go.
+  Įkelkite projekto aplanke esantį failą cms.sql, tada spauskite Go.
 
 4. Atidaryti svetainę per http://localhost/cms/
