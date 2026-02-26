@@ -5,7 +5,7 @@
 // define("DB_NAME","cms");
 
 //$connection=mysqli_connect(DB_HOST,DB_USER,DB_PASS,DB_NAME);
-$connection=mysqli_connect("localhost:3307","root","","cms");
+$connection=mysqli_connect("localhost","root","","cms");
 if(!$connection)
 {
     die("doesnt work" . mysqli_connect_error($connection));
